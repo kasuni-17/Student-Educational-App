@@ -84,13 +84,6 @@ PORT=5000
 JWT_SECRET=your_secret_key
 ```
 
-```UI
-![alt text](image-1.png)
-
-![alt text](image-2.png)
-
-![alt text](image-3.png)
-
 ## 👩‍💻 Author
 
 Developed by Kasuni Lakshika.
