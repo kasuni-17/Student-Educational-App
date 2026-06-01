@@ -32,7 +32,9 @@ A full-stack student educational application developed using Expo/React Native w
 
 ### UI
 
-<img src="image-1.png" width="400">
+<img src="image-1.png" width="150">
+<img src="image-2.png" width="150">
+<img src="image-3.png" width="150">
 
 ### Deployment
 
