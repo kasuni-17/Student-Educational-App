@@ -30,6 +30,10 @@ A full-stack student educational application developed using Expo/React Native w
 - Express.js
 - MongoDB
 
+### UI
+
+<img src="image-1.png" width="400">
+
 ### Deployment
 
 - Frontend deployed on [Netlify](https://www.netlify.com/)
